@@ -48,4 +48,4 @@ The system should separate:
 
 ## Status
 
-Foundation initialized. The next documents should define the complete Financial Freedom Blueprint and the operating plan for 2026–2030.
+Foundation initialized. The core blueprint, operating plan, and financial model/milestone engine are now defined. The next layer is the dashboard/system architecture.
